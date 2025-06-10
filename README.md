@@ -26,3 +26,9 @@ This simple UI helps streamline setting up a new Windows machine by bundling
 your favorite applications into a single installer.
 
 ### This is a personal project and will probably never fully release or be signed. Originally written in PowerShell but recently ported to C#
+
+## Gallery
+
+![demo1](https://github.com/user-attachments/assets/505f2dcd-4761-480a-9532-c261fb373df1)
+
+![demo2](https://github.com/user-attachments/assets/4cb761c2-691e-4b92-aec9-608345ea51a6)
