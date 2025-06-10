@@ -24,3 +24,5 @@ automatically matching the system theme.
 
 This simple UI helps streamline setting up a new Windows machine by bundling
 your favorite applications into a single installer.
+
+### This is a personal project and will probably never fully release or be signed. Originally written in PowerShell but recently ported to C#
