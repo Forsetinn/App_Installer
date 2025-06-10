@@ -21,6 +21,7 @@ automatically matching the system theme.
 2. Run the resulting executable.
 3. Use the search box to find packages or choose from the predefined list.
 4. Click **Install Selected** to install checked apps.
+5. OR Visit the Release Page and download the ClickOnce Install file (Defender will warn you about being no signature)
 
 This simple UI helps streamline setting up a new Windows machine by bundling
 your favorite applications into a single installer.
